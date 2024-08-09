@@ -1,0 +1,8 @@
+pynput
+sounddevice
+soundfile
+numpy
+pyperclip
+pygame
+openai
+rumps
